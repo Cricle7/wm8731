@@ -1,0 +1,4 @@
+WORK > DEFAULT
+DEFAULT : ./work
+PDS_lib : /home/circle7/PDS_lib/simulation/
+TIMEBASE = ps

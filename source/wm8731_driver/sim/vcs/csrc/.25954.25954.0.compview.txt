@@ -1,0 +1,6 @@
+Command exited with non-zero status 255
+{"comelab":{"timestamp_begin":1711948437.247148980, "rt":7.58, "ut":0.87, "st":0.10}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1711948436.868716209}
+{"VCS_COMP_START_TIME": 1711948436.868716209}
+{"VCS_COMP_END_TIME": 1711948444.946462847}
+{"VCS_USER_OPTIONS": "-full64 work.resample_tb -sverilog -kdb -debug_all -P /usr/synopsys/verdi/T-2022.06/share/PLI/VCS/LINUX64/novas.tab /usr/synopsys/verdi/T-2022.06/share/PLI/VCS/LINUX64/pli.a"}
